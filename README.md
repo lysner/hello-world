@@ -3,14 +3,13 @@
 Hi Everyone!
 
 I'm Rensyl, A Filipino Computer Science freshmen, and this is my new repository.
-Though in the start of my school days, I have no idea and at the same time,
-practical experience on programming but then as time goes by, I've learned a lot from various references to build my programming skills.
-On our First Semester, we use the programming language C++, as our platform to learn on how to code, and we had our first software demonstration
-as our final requirement for our First Semester. After that, C++ is no longer our platform because the administration of our department
-decides to give CS students a new programming language, and that was Python :)
-
-Currently, I'm finishing my Second Semester as a freshmen student. And I really really love Python because of its huge community and more 
-friendly syntax. I also learning other programming languages like R, JavaScript, Ruby, Swift, and some other databases like SQL.
+During the first day of school, I have no idea or any
+practical experience on programming but then as time passed, I've learned a lot from various references to build my programming skills.
+On our First Semester, we use the C++ as our first programming language, and we had our first software demonstration
+as our final requirement. After C++, we use Python on our Second Semester including the summer class and discuss about
+the different types of data structures and algorithm. Then we have the same programming language on the First Semester as a Second Year
+College and discuss one of the major application of programming, the OOP. Then  finally, on the Second Semester of the school year,
+we use the Java language on our Advanced Object-Oriented Programming. 
 
 But my overall platform is Python!
 
